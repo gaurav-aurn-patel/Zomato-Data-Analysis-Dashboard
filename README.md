@@ -22,7 +22,7 @@ This Power BI dashboard (`Zomato_Data_Analysis_Dashboard.pbit`) provides a compr
 * **Interactive Slicers:** Dynamic filters allowing users to slice the data seamlessly by *City*, *Price Range*, *Online Delivery Availability*, and *Table Booking Options*.
 ## 📸 Screenshots / Demos
 * **Main Overview Dashboard:**
-![Main Overview Dashboard]([./images/main_overview.png](https://github.com/gaurav-aurn-patel/Zomato-Data-Analysis-Dashboard/blob/main/Screenshot%20of%20Zomato%20Dashboard.png))
+![Main Overview Dashboard](https://github.com/gaurav-aurn-patel/Zomato-Data-Analysis-Dashboard/blob/main/Screenshot%20of%20Zomato%20Dashboard.png)
     
 * **Geographical Analysis:**
 ![Map Visualizations](./images/geo_analysis.png)
