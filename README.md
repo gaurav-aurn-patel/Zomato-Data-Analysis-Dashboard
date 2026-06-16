@@ -21,9 +21,8 @@ This Power BI dashboard (`Zomato_Data_Analysis_Dashboard.pbit`) provides a compr
 * **Customer Sentiment:** Breakdown of restaurants by rating tiers to gauge overall market quality and customer satisfaction.
 * **Interactive Slicers:** Dynamic filters allowing users to slice the data seamlessly by *City*, *Price Range*, *Online Delivery Availability*, and *Table Booking Options*.
 ## 📸 Screenshots / Demos
-> **Note:** *Replace the placeholder paths below with actual image links of your Power BI dashboard pages once uploaded to your repository.*
 * **Main Overview Dashboard:**
-![Main Overview Dashboard](./images/main_overview.png)
+![Main Overview Dashboard]([./images/main_overview.png](https://github.com/gaurav-aurn-patel/Zomato-Data-Analysis-Dashboard/blob/main/Screenshot%20of%20Zomato%20Dashboard.png))
     
 * **Geographical Analysis:**
 ![Map Visualizations](./images/geo_analysis.png)
